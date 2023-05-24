@@ -1,0 +1,2 @@
+執行program前需先設定shared library位置搜尋當前資料夾
+export LD_LIBRARY_PATH=.
